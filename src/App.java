@@ -3,5 +3,7 @@ public class App {
         System.out.println("Hello, Sawyer and Raygen!");
 
         System.out.println( "Welcome to class");
+
+        System.out.println("HELLO");
     }
 }
