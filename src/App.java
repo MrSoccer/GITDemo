@@ -5,5 +5,7 @@ public class App {
         System.out.println( "Welcome to class");
 
         System.out.println("HELLO");
+
+        System.out.println("Hello again!");
     }
 }
