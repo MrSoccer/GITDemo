@@ -1,5 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
+        String username = "";
         System.out.println("Hello, Sawyer and Raygen!");
 
         System.out.println( "Welcome to class");
